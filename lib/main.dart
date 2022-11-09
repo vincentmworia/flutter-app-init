@@ -8,6 +8,12 @@ class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
   static const appTitle = 'IOT TEMPLATE';
+
+  // static const _appPrimaryColor = Color(0xff545AA7);//BLUE lIBERTY
+  // static const _appPrimaryColor = Color(0xff4B61D1);//BLUE SAVOY
+  // static const _appPrimaryColor = Color(0xff1E2952);//BLUE SPACE CADET
+  // static const _appPrimaryColor = Color(0xff002E63);//BLUE COOL BLACK
+  // static const _appPrimaryColor = Color(0xff0070BB);//BLUE COOL BLACK
   static const _appPrimaryColor = Color(0xff4169e1);
   static const _appSecondaryColor = Color(0xfa3EB489);
 
